@@ -1,1 +1,1 @@
-protobuf<3.21,>=3.6
+protobuf>=3.6
